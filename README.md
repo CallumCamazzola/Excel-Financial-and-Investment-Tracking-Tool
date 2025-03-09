@@ -17,4 +17,6 @@ The **Financial & Investment Planning Tool** is a powerful Excel-based solution 
 3. **Manage Financial Goals**: Define savings goals, allocate funds, and adjust priorities as needed.
 4. **Analyze Performance**: Utilize built-in charts and summaries to gain insights into your financial and investment decisions.
 
-
+## Requirements
+- Microsoft Excel (with support for macros and formulas)
+- Basic understanding of task entry and navigation
