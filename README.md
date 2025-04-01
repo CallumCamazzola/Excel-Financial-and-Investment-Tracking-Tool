@@ -1,6 +1,9 @@
 
 # Financial & Investment Planning Tool
 
+
+![Alt Text](Screenshots/1screen-1.png)
+
 ## Overview
 The **Financial & Investment Planning Tool** is a powerful Excel-based solution designed to help users take control of their finances, track investment performance, and make informed decisions with real-time stock market data. Whether you're managing personal budgets, setting financial goals, or optimizing investment portfolios, this tool provides a seamless and intuitive experience to keep your financial health in check.
 
